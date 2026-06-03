@@ -2,3 +2,8 @@
 	path = sourcedata/mariostars.fmriprep
 	url = https://github.com/courtois-neuromod/mariostars.fmriprep
 	datalad-url = https://github.com/courtois-neuromod/mariostars.fmriprep
+[submodule "code"]
+	path = code
+	url = https://github.com/courtois-neuromod/ds_prep
+	datalad-id = 1ea56af2-8e14-11ea-ba71-93977911da7b
+	datalad-url = https://github.com/courtois-neuromod/ds_prep
