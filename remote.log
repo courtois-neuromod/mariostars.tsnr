@@ -1,0 +1,1 @@
+ddd8dd65-91ad-4e73-9a92-5554281eaa75 autoenable=true bucket=cneuromod.mariostars.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.mariostars.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353013s
